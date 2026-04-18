@@ -1,0 +1,322 @@
+True
+0    False
+False
+22
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+20
+__CODE_ERROR__: sequence item 0: expected str instance, int found
+__CODE_ERROR__: No return statement found in response
+es
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: 'retweets'
+20
+['Gonzalo Ramírez', 'xAnubis', 'Gabriel Bermudez', 'Lau_Arbona']
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+20
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+452.35
+130
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+75.1
+30
+__CODE_ERROR__: No return statement found in response
+0      47.0
+['Mega Charizard X', 'Mega Charizard Y', 'Mega Blastoise']
+['Charmander', 'Squirtle', 'Bulbasaur', 'Caterpie', 'Metapod']
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+75.1
+__CODE_ERROR__: No return statement found in response
+nan
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: 'Conscientiousness'
+False
+20
+True
+0.5697833440569615
+19
+__CODE_ERROR__: No return statement found in response
+0.11272433753052935
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+.Net Architect
+['Adjuster', 'Academic Director', 'Academic Dean']
+['Academic Vice President', 'Academic Coordinator', 'Account Supervisor', 'Account Director']
+['.Net Architect', 'Account Specialist', 'Adjuster', 'Actuary', 'Accounts Manager']
+__CODE_ERROR__: No return statement found in response
+            Profession  Openness  Conscientousness  ...  Self-enhancement  Self-transcendence    n
+0.5444026727434411
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+[1, 2, 3, 4, 5, 6]
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+num_claims
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+29
+B2
+['en']
+__CODE_ERROR__: No return statement found in response
+20
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+18.0
+[29, 28, 22, 21]
+20
+[9479478.0, 9479476.0, 9479486.0, 9479491.0, 9479479.0]
+[9479490.0, 9479491.0, 9479492.0, 9479493.0, 9479494.0, 9479495.0]
+__CODE_ERROR__: 'user_verified'
+__CODE_ERROR__: 'retweets'
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+20
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: 'user_followers_count'
+20
+__CODE_ERROR__: 'mention_ids'
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: 'user_followers_count'
+None
+__CODE_ERROR__: name 'mention_counts' is not defined
+__CODE_ERROR__: No return statement found in response
+4332.9
+False
+False
+False
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+<bound method IndexOpsMixin.value_counts of 0                Radio/TV
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: name 'most_common_credit_history' is not defined
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+[24, 12, 48, 36]
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+False
+False
+0
+0.010090000000000002
+__CODE_ERROR__: No return statement found in response
+0.0341
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: 'float' object has no attribute 'astype'
+__CODE_ERROR__: No return statement found in response
+[15, 19, 17, 5, 0]
+[0.12618500000000002, 0.010485, 0.010090000000000002]
+[15, 19, 13, 5]
+0.010485
+[1.6, 0.96, 0.9, 0.89, 0.69]
+20
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+0
+20
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+['The party is the most competent', 'The party helps people like me', 'The party ideas are close to my own']
+__CODE_ERROR__: No return statement found in response
+20
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+65+
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+65+      8
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+[10.0, 11.0, 8.0, 6.0, 3.0, 0.0]
+True
+__CODE_ERROR__: No return statement found in response
+True
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+None
+11.35
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+price    OK Cars
+Berlingo
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+None
+__CODE_ERROR__: 'DataFrame' object has no attribute 'to_list'
+['Blanco', 'Gris / Plata', 'Azul', 'Negro']
+__CODE_ERROR__: No return statement found in response
+20
+__CODE_ERROR__: name 'year_count' is not defined
+21
+6     3
+[nan, 150.0, nan, 306.0, 150.0, 140.0]
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: Index must be DatetimeIndex
+__CODE_ERROR__: No return statement found in response
+Bread                0
+10
+9
+9
+0
+('Bread', 'weekend')
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+__CODE_ERROR__: No return statement found in response
+morning
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+None
+__CODE_ERROR__: name 'top_items' is not defined
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+[7, 3, 5, 6]
+[7, 3, 5, 6, 2]
+[9, 8, 5, 1]
+20
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: Categorical is not ordered for operation max
+you can use .as_ordered() to change the Categorical to an ordered one
+
+4.05
+None
+11
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+4.05
+0
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+nan
+__CODE_ERROR__: Unordered Categoricals can only compare equality or not
+20
+Disneyland_HongKong      4.938272
+None
+Disneyland_HongKong      20
+nan
+CategoricalIndex(['Disneyland_HongKong', 'Disneyland_California',
+3.8333333333333335
+5
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+20
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: Can only use .str accessor with string values!
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+20
+__CODE_ERROR__: 'retweet_count'
+20
+[1075004324567285761, 1075011751165485056, 1075397797929775105, 1075368918204719105, 1075197395892404231]
+[100587, 97078, 92593, 92000]
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+0.6029751067034804
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+__CODE_ERROR__: invalid syntax (<string>, line 3)
+False
+2
+0.19987631146761986
+20
+__CODE_ERROR__: No return statement found in response
+<bound method Series.mode of 0             Global Pulse
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/007/thumb/5HABV7bJ_normal.png?1517501697
+1436.2725591196463
+20
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+['HelpMeViz', 'dataScienceRetreat', 'David McCandless']
+[400.0, 389.5, 372.0, 340.0, 256.0]
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+[118.5, 243.5, 106.0]
+   animal_name  hair  feathers  eggs  milk  airborne  ...  fins  legs  tail  domestic  catsize  class_type
+__CODE_ERROR__: unterminated string literal (detected at line 3) (<string>, line 3)
+False
+True
+4
+None
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+7
+[]
+__CODE_ERROR__: No return statement found in response
+['crayfish', 'aardvark']
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: No return statement found in response
+[1, 4, 7, 2]
+[1, 4, 7, 2]
+__CODE_ERROR__: No return statement found in response
+__CODE_ERROR__: 'airspeed'
+True
+__CODE_ERROR__: No return statement found in response
+CustomerID
+81.36000000000001
+6.55
+__CODE_ERROR__: No return statement found in response
+6.55
+20
+13047.0
+20
+ASSORTED COLOUR BIRD ORNAMENT
+20
+1
+Series([], Name: UnitPrice, dtype: float64)
+['United Kingdom', 'United Arab Emirates', 'Israel', 'Finland']
+__CODE_ERROR__: '(' was never closed (<string>, line 3)
+['85123A', '22748', '71053', '21777', '21755']
+    InvoiceNo StockCode                          Description  ...  UnitPrice CustomerID         Country
+None
+None
